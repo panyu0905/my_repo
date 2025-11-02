@@ -1,3 +1,3 @@
 print("hello world")
-print("this is beautiful day!")
+print("i think that it's a beautiful day!")
 
